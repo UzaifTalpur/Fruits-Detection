@@ -26,18 +26,15 @@ By replacing the original dataset with fruit images and tuning the model paramet
 - **Dietary Apps**: Use smartphone cameras to identify fruit types for nutritional tracking.
 
 ## Installation
-1. **Clone the Repository**:
-    ```shell
-    git clone https://github.com/YourUsername/Fruits-Detection.git
-    cd Fruits-Detection
+1. **Visit The Collab Master File**:
+    ```You just have to follow the step by step guide
     ```
 2. **Set up Google Colab for Training**:
-   Open the Colab notebook and execute it using your dataset.
+   Open the Colab notebook and execute it according to your dataset.
 
 3. **Install Dependencies**:
    Make sure you have the required libraries by running:
-    ```shell
-    pip install -r requirements.txt
+    ```Make sure the virtual connection does not get disrupt as it will halt the training in midway process.
     ```
 
 ## Usage
@@ -46,7 +43,7 @@ By replacing the original dataset with fruit images and tuning the model paramet
 3. Download the trained model and deploy it to your desired device.
 
 ## Results
-![Fruit Detection Sample](media/detection_sample.png)
+![Fruit Detection Sample](media/)
 The model’s accuracy ranges from 95% to 97%, based on testing with varied lighting and backgrounds. This can verified on my LinkedIn post mentioned at media/ section of Project Strucure below.
 
 ## Project Structure
@@ -58,6 +55,19 @@ The model’s accuracy ranges from 95% to 97%, based on testing with varied ligh
 ## Acknowledgments
 Thanks to **Edje Electronics** for their open-source contributions to TensorFlow Lite object detection, and **Muhammed Buyukkinaci** for the Kaggle dataset that made this project possible.
 You can access the Edje Electronics Main Github Repository Branch via this link: https://github.com/EdjeElectronics
+
+## Tags
+Use these tags to boost discoverability on GitHub and social platforms:
+- `#FruitDetection`
+- `#TensorFlowLite`
+- `#ComputerVision`
+- `#ObjectDetection`
+- `#ReinforcementLearning`
+- `#GoogleColab`
+- `#MachineLearning`
+- `#Python`
+- `#OpenSource`
+- `#TechnologyInnovation`
 
 ## License
 [MIT License](LICENSE)
